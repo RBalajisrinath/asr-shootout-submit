@@ -7,7 +7,7 @@ I recorded 20 phone-style clips with Bangalore locality names (Tanglish/English)
 ## Run it
 
 ```powershell
-cd asr-shootout
+cd asr-shootout-submit
 copy .env.example .env
 # add DEEPGRAM_API_KEY
 
