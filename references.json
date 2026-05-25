@@ -1,0 +1,122 @@
+{
+  "001_koramangala_quiet": {
+    "locality": "Koramangala",
+    "language": "tanglish",
+    "condition": "quiet",
+    "reference": "naan Koramangala la thaan irukken"
+  },
+  "002_indiranagar_noise": {
+    "locality": "Indiranagar",
+    "language": "english",
+    "condition": "noise",
+    "reference": "yeah my office is near Indiranagar only"
+  },
+  "003_whitefield_phone": {
+    "locality": "Whitefield",
+    "language": "tanglish",
+    "condition": "phone",
+    "reference": "enna veedu Whitefield pakathula irukku"
+  },
+  "004_electronic_city_rushed": {
+    "locality": "Electronic City",
+    "language": "english",
+    "condition": "rushed",
+    "reference": "i stay in Electronic City bro hurry up"
+  },
+  "005_marathahalli_quiet": {
+    "locality": "Marathahalli",
+    "language": "tanglish",
+    "condition": "quiet",
+    "reference": "naan Marathahalli side la work panren"
+  },
+  "006_jayanagar_noise": {
+    "locality": "Jayanagar",
+    "language": "english",
+    "condition": "noise",
+    "reference": "interview is in Jayanagar tomorrow okay"
+  },
+  "007_rajajinagar_phone": {
+    "locality": "Rajajinagar",
+    "language": "tanglish",
+    "condition": "phone",
+    "reference": "amma Rajajinagar la irukanga phone la sollunga"
+  },
+  "008_hebbal_rushed": {
+    "locality": "Hebbal",
+    "language": "english",
+    "condition": "rushed",
+    "reference": "Hebbal Hebbal yes Hebbal near flyover"
+  },
+  "009_yelahanka_quiet": {
+    "locality": "Yelahanka",
+    "language": "tanglish",
+    "condition": "quiet",
+    "reference": "yen cousin Yelahanka la settle aayitaan"
+  },
+  "010_banashankari_noise": {
+    "locality": "Banashankari",
+    "language": "english",
+    "condition": "noise",
+    "reference": "bus stop is Banashankari third stage"
+  },
+  "011_hsr_layout_phone": {
+    "locality": "HSR Layout",
+    "language": "tanglish",
+    "condition": "phone",
+    "reference": "naan HSR Layout la thaan rent ku irukken"
+  },
+  "012_btm_layout_whisper": {
+    "locality": "BTM Layout",
+    "language": "english",
+    "condition": "whisper",
+    "reference": "low voice BTM Layout second stage"
+  },
+  "013_majestic_rushed": {
+    "locality": "Majestic",
+    "language": "tanglish",
+    "condition": "rushed",
+    "reference": "Majestic Majestic bus stand pakathula wait pannunga"
+  },
+  "014_silk_board_quiet": {
+    "locality": "Silk Board",
+    "language": "english",
+    "condition": "quiet",
+    "reference": "traffic is bad near Silk Board junction"
+  },
+  "015_bellandur_noise": {
+    "locality": "Bellandur",
+    "language": "tanglish",
+    "condition": "noise",
+    "reference": "office Bellandur lake road side la irukku"
+  },
+  "016_sarjapur_phone": {
+    "locality": "Sarjapur",
+    "language": "english",
+    "condition": "phone",
+    "reference": "can you hear me I live in Sarjapur road area"
+  },
+  "017_bommanahalli_rushed": {
+    "locality": "Bommanahalli",
+    "language": "tanglish",
+    "condition": "rushed",
+    "reference": "Bommanahalli Bommanahalli inga vandhurunga fast"
+  },
+  "018_kr_puram_quiet": {
+    "locality": "KR Puram",
+    "language": "english",
+    "condition": "quiet",
+    "reference": "my pincode is near KR Puram station"
+  },
+  "019_peenya_noise": {
+    "locality": "Peenya",
+    "language": "tanglish",
+    "condition": "noise",
+    "reference": "factory work Peenya industrial area la"
+  },
+  "020_yeshwanthpur_whisper": {
+    "locality": "Yeshwanthpur",
+    "language": "english",
+    "condition": "whisper",
+    "reference": "quietly Yeshwanthpur metro station nearby"
+  }
+}
