@@ -27,5 +27,3 @@ First time, Whisper downloads ~75 MB. Output goes to `results/`; charts to `figu
 - **whisper_hindi** — same model, Hindi forced
 
 Put your 20 files in `recordings/` — names must match `references.json` (e.g. `001_koramangala_quiet.mp4`).
-
-Don't commit `.env`, `.venv`, `models/`, or `results/`.
